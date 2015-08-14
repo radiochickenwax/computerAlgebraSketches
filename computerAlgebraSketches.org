@@ -1,3 +1,7 @@
 
 
 ** computer algebra sketches
+
+*** journal
+
+*** overview
