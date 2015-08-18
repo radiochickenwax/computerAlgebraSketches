@@ -5,3 +5,7 @@
 *** journal
 
 *** overview
+
+This is a large topic to cover.  There are lots of choices to make. 
+
+*** goals
