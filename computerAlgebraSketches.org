@@ -6,6 +6,8 @@
 
 *** overview
 
-This is a large topic to cover.  There are lots of choices to make. 
+This is a large topic to cover.  There are lots of choices to make.
+There are lots of examples to pull from.  
+
 
 *** goals
