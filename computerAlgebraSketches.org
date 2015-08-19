@@ -9,5 +9,11 @@
 This is a large topic to cover.  There are lots of choices to make.
 There are lots of examples to pull from.  
 
+Here are some of the first examples to come to mind. 
+
+	- emacs calc.
+	- maxima
+	- yacas
+	  
 
 *** goals
