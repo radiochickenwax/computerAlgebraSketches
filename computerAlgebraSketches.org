@@ -11,9 +11,17 @@ There are lots of examples to pull from.
 
 Here are some of the first examples to come to mind. 
 
-	- emacs calc.
+	- emacs calc
+	  - most useful because of its integration with emacs 
 	- maxima
+	  - more powerful algebra than emacs calc
+	  - also written in lisp
 	- yacas
+	  - written in C++
+	- sympy
+	- numpy
+	- ginac
+	  - written in C?
 	  
 
 *** goals
