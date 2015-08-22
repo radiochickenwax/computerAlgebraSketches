@@ -13,7 +13,9 @@ Here are some of the first examples to come to mind.
 
 	- emacs calc
 	  - PRO: most useful because of its integration with emacs
-	  - CON: is not really a standalone package
+	  - PRO: has units
+	  - CON: is not really a standalone package.  Where is source
+            code?  Emacs is beautiful but too complicated.  
 	- maxima
 	  - PRO: more powerful algebra than emacs calc
 	  - NON: also written in lisp
@@ -21,9 +23,11 @@ Here are some of the first examples to come to mind.
 	- yacas
 	  - written in C++
 	- sympy
+	  - 
 	- numpy
 	- ginac
 	  - written in C?
+	- see rpm calc in mlib
 	  
 
 *** goals
