@@ -12,10 +12,12 @@ There are lots of examples to pull from.
 Here are some of the first examples to come to mind. 
 
 	- emacs calc
-	  - most useful because of its integration with emacs 
+	  - PRO: most useful because of its integration with emacs
+	  - CON: is not really a standalone package
 	- maxima
-	  - more powerful algebra than emacs calc
-	  - also written in lisp
+	  - PRO: more powerful algebra than emacs calc
+	  - NON: also written in lisp
+	  - CON: huge code base
 	- yacas
 	  - written in C++
 	- sympy
