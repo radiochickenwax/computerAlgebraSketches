@@ -23,11 +23,15 @@ Here are some of the first examples to come to mind.
 	- yacas
 	  - written in C++
 	- sympy
-	  - 
+	  - PRO: standalone and pluggable
 	- numpy
+	  - PRO standalone and pluggable
 	- ginac
-	  - written in C?
-	- see rpm calc in mlib
+	  - PRO: written in C?
+	  - PRO: standalone and pluggable
+	  - not much interactivity
+	- see rpn calc in mlib
+	- 
 	  
 
 *** goals
