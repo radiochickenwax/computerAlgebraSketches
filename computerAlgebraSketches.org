@@ -9,29 +9,36 @@
 This is a large topic to cover.  There are lots of choices to make.
 There are lots of examples to pull from.  
 
-Here are some of the first examples to come to mind. 
+**** prior examples to pull from
 
-	- emacs calc
-	  - PRO: most useful because of its integration with emacs
-	  - PRO: has units
-	  - CON: is not really a standalone package.  Where is source
-            code?  Emacs is beautiful but too complicated.  
-	- maxima
-	  - PRO: more powerful algebra than emacs calc
-	  - NON: also written in lisp
-	  - CON: huge code base
-	- yacas
-	  - written in C++
-	- sympy
-	  - PRO: standalone and pluggable
-	- numpy
-	  - PRO standalone and pluggable
-	- ginac
-	  - PRO: written in C?
-	  - PRO: standalone and pluggable
-	  - not much interactivity
-	- see rpn calc in mlib
-	- 
-	  
+	 - emacs calc
+	   - PRO: most useful because of its integration with emacs
+	   - PRO: has units
+	   - CON: is not really a standalone package.  Where is source
+             code?  Emacs is beautiful but too complicated.  
+	 - maxima
+	   - PRO: more powerful algebra than emacs calc
+	   - NON: also written in lisp
+	   - CON: huge code base
+	 - yacas
+	   - written in C++
+	 - sympy
+	   - PRO: standalone and pluggable
+	 - numpy
+	   - PRO standalone and pluggable
+	 - ginac
+	   - PRO: written in C?
+	   - PRO: standalone and pluggable
+	   - not much interactivity
+	 - see rpn calc in mlib
+
+**** language choice	 
+
+     - javascript
+     - python
+     - c
+     - C++
+     - python
+	   
 
 *** goals
