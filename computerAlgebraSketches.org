@@ -17,16 +17,21 @@ There are lots of examples to pull from.
 	   - CON: is not really a standalone package.  Where is source
              code?  Emacs is beautiful but too complicated.  
 	 - maxima
+	   - http://maxima.sourceforge.net/
 	   - PRO: more powerful algebra than emacs calc
 	   - NON: also written in lisp
 	   - CON: huge code base
 	 - yacas
+	   - http://yacas.sourceforge.net/homepage.html
 	   - written in C++
 	 - sympy
 	   - PRO: standalone and pluggable
+	   - http://www.sympy.org/en/index.html
 	 - numpy
 	   - PRO standalone and pluggable
+	   - http://www.numpy.org/
 	 - ginac
+	   - http://www.ginac.de/
 	   - PRO: written in C?
 	   - PRO: standalone and pluggable
 	   - not much interactivity
