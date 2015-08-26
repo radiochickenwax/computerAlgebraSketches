@@ -18,6 +18,7 @@ There are lots of examples to pull from.
              code?  Emacs is beautiful but too complicated.  
 	 - maxima
 	   - http://maxima.sourceforge.net/
+	   - http://sourceforge.net/projects/maxima/files/Maxima-source/
 	   - PRO: more powerful algebra than emacs calc
 	   - NON: also written in lisp
 	   - CON: huge code base
@@ -47,3 +48,8 @@ There are lots of examples to pull from.
 	   
 
 *** goals
+**** getting started
+
+https://en.wikipedia.org/wiki/Computer_algebra_system
+
+**** find common algorithms
