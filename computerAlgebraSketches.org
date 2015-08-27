@@ -53,3 +53,6 @@ There are lots of examples to pull from.
 https://en.wikipedia.org/wiki/Computer_algebra_system
 
 **** find common algorithms
+**** graphing / plotting
+**** user support?
+**** note book style functionality?
