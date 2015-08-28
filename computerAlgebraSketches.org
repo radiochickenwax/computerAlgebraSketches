@@ -54,5 +54,9 @@ https://en.wikipedia.org/wiki/Computer_algebra_system
 
 **** find common algorithms
 **** graphing / plotting
+     SVG and OpenGL would be nice.  What about native support?  Web
+     support?  What are pros and cons?
 **** user support?
+     Multiusers?
 **** note book style functionality?
+     Store in files?  Database?  Which one?
