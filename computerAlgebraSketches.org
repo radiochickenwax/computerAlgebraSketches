@@ -52,7 +52,46 @@ There are lots of examples to pull from.
 
 https://en.wikipedia.org/wiki/Computer_algebra_system
 
-**** find common algorithms
+**** common tasks (from wikipedia)
+     
+
+***** simplification
+
+***** substitution (symbols or numerics)
+
+***** change forms
+
+****** factorization
+
+****** partial fractions
+
+****** constraint satisfaction
+
+****** rewrite trig functions
+
+******* trig to exponentials
+
+****** transform logic expressions
+
+****** units
+
+***** partial and total differentiation
+***** (symbolic) indefinite and definite integration
+***** solve linear and non-linear equations over various domains
+***** differential and difference equations
+***** limits (delta/epsilon)
+***** integral transforms
+***** series operations
+****** expansion
+****** summation
+****** products
+***** matrix ops
+****** products
+****** inverse
+****** multiplication
+***** statistical computation
+***** theorem proving and verification
+***** code generation
 **** graphing / plotting
      SVG and OpenGL would be nice.  What about native support?  Web
      support?  What are pros and cons?
